@@ -22,7 +22,6 @@ let products = [
     {
         "id": 1003,
         "title": "Economics",
-        "description": "5kg bag of <b> irrestible </b> cow food",
         "location": "London",
         "price": 45,
         "image": "images/Economics.jpg",
