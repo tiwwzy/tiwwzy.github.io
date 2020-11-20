@@ -1,7 +1,7 @@
 let products = [
     {
         
-        "id": 101,
+        "id": 1001,
         "title": "Mathematics",
         "location": "Paris",
         "price": 25,
