@@ -4,7 +4,7 @@ let products = [
         "id": 101,
         "title": "Mathematics",
         "location": "Paris",
-        "price": 20,
+        "price": 25,
         "image": "images/mathematic.png",
         "availableInventory": 5, //was 5
         "rating": 2,
@@ -24,7 +24,7 @@ let products = [
         "title": "Economics",
         "description": "5kg bag of <b> irrestible </b> cow food",
         "location": "London",
-        "price": 40,
+        "price": 45,
         "image": "images/Economics.jpg",
         "availableInventory": 5, //was 5
         "rating": 5,
